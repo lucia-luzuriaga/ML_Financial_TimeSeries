@@ -63,12 +63,12 @@ El análisis confirma que, aunque existe cierta señal estadística, la magnitud
 
 El notebook está estructurado para ejecutarse de forma secuencial sin modificaciones.
 
-Autores:
+- Autores:
 
 Proyecto desarrollado por:
 
-Alejandro Balaguer
+· Alejandro Balaguer
 
-Blanca García
+· Blanca García
 
-Lucía Luzuriaga
+· Lucía Luzuriaga
