@@ -1,4 +1,4 @@
-Predicción de la Dirección del Precio en el NASDAQ-100
+**Predicción de la Dirección del Precio en el NASDAQ-100**
 - Descripción:
 
 Este proyecto desarrolla un modelo de Machine Learning supervisado de clasificación para predecir la dirección diaria del precio de cierre (sube/baja) de acciones del índice NASDAQ-100.
