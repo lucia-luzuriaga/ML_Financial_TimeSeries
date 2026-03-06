@@ -60,16 +60,25 @@ El notebook está estructurado para ejecutarse de forma secuencial sin modificac
 
 ```
 ├── Main.ipynb
+├── Presentación_ML.pdf
 ├── README.md
 │
 ├── src
 │   ├── data_sample
-│   │   ├── NASDAQ100_Historical_Data.csv
-│   │   ├── train_samples.csv
-│   │   └── test_samples.csv
+│   │   └── NASDAQ100_Historical_Data_reduced.csv
 │   │
-│   └── models
-│       └── finished_model.model
+│   ├── img
+│   │
+│   ├── models
+│   │   └── finished_model.model
+│   │
+│   ├── notebooks
+│   │   ├── prueba.ipynb
+│   │   ├── prueba_Alex.ipynb
+│   │   └── prueba_Lucia.ipynb
+│   │
+│   └── utils
+│       └── functions.py
 ```
 
 ## Autores:
